@@ -1,0 +1,54 @@
+body{
+    padding: 20px;
+    background-color:#F2F0EB;
+}
+.cabecario{
+background-color: #D9D6D2;
+}
+
+#teste{
+    border:2px solid #0B0B0D;
+    
+    box-sizing: border-box;
+    width: max-content;
+    
+}
+.primeiro-titulo{
+    font-size: 40px;
+    text-align: center;
+    color: #73605C;
+    }
+
+h2{
+    font-size: 35px;
+    color: #0B0B0D;
+}
+p{
+    color: #0B0B0D;
+    font-size: 20px;
+    
+}
+.pessoal{
+    font-size: 25px;
+    color: #0B0B0D;
+    margin: 0px;
+    
+}
+.contato{
+    
+    border-style: groove;
+    width: 96%;
+    border-radius: 15px;
+    background-color: #949FA6;
+    margin: 0;
+    font-size: 30px;
+    padding: 20px;
+}
+#contatos{
+    padding: 20px;
+    text-decoration: none;
+    color: #73605C;
+}
+
+#logo_imagens{
+    width: 30px;}
